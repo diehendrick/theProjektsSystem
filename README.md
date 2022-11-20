@@ -1,2 +1,2 @@
 # theProjektsSystem
-Ini adalah the projekts design tokens. 
+This is foundation tokens from theProjekts Design system
