@@ -5,6 +5,7 @@
         "global",
         "light"
       ],
+      
       "supernovaBrand": "Default",
       "supernovaTheme": null
   }, {
@@ -12,8 +13,14 @@
       "global",
       "dark"
     ],
-    "supernovaBrand":"Default",
-    "supernovaTheme":"dark"
 
-  }]
+    "supernovaBrand":"Default",
+    "supernovaTheme":"Dark"
+
+  }],
+  "settings": {
+    "dryRun": false,
+    "verbose": false,
+    "preciseCopy": false
+  }
 }
