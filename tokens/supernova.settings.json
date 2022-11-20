@@ -2,7 +2,7 @@
     "mode": "single-file",
     "mapping": [{
         "tokenSets":[
-            "gobal",
+            "global",
             "light"
         ]
     },
