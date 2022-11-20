@@ -24,7 +24,7 @@ jobs:
       # Sync tokens
       - name: Synchronize tokens with Supernova 
         run: supernova sync-tokens \
-        --apiKey=${{ sn.Lc1VEVk8pJmshmUjdVpI7YxyU7WNT8J1T5IqSJiG2a61c8wdCBrEBGysGWSu7E0OOba1BRELe7xXkWYW3e47StfE52CPGO0Q}} \
+        --apiKey=${{ secrets.ACCESS_TOKENS}} \
         --designSystemId=21933 \
         --tokenFilePath="${{ github.workspace }}/data/tokens.json" \
         --configFilePath="${{ github.workspace }}/data/supernova.settings.json" \
