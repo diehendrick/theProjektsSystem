@@ -7,12 +7,5 @@
       ],
       "supernovaBrand": "Default",
       "supernovaTheme": null
-  }, {
-      "tokenSets": [
-        "global",
-        "dark"
-      ],
-      "supernovaBrand": "Default",
-      "supernovaTheme": "Dark"
   }]
 }
